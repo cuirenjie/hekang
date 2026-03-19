@@ -28,8 +28,8 @@ export default function Hero() {
               </motion.span>
               
               <h1 className="text-4xl md:text-7xl font-bold text-slate-900 mb-8 leading-[1.1] tracking-tight">
-                Fast-Track Your <br />
-                <span className="text-primary glow-text">Health Future</span>
+                香港标准 <br />
+                <span className="text-primary glow-text">深圳效率</span>
               </h1>
               
               <p className="text-xl text-slate-600 mb-12 leading-relaxed max-w-3xl mx-auto font-medium">
